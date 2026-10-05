@@ -6,8 +6,8 @@ execution, explicit user authority, and inspectable outcomes.
 ## Development status
 
 **Alpha / preparing for outside testing.** This repository is Nova's public project and
-community front door, and a future testing-distribution home. The development repository
-remains private; this repository contains presentation material only.
+community front door, and a future testing-distribution home. NovaLIS is public and currently
+frozen; see its README for known limitations.
 
 Built by [christopherbdaugherty96](https://github.com/christopherbdaugherty96).
 
